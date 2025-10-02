@@ -1,14 +1,14 @@
 # RCOS-Fall25
 Practice repository for RCOS @ RPI Fall 2025
 
-** Name ** 
+Name: 
 Maxwell Bast
 
-** Photo **
+Photo:
 ![My Photo](photo.jpg)
 
-** Graduating Year **
+Graduating Year:
 2028
 
-** Project Sub-Area **
+Project Sub-Area:
 Artificial Intelligence and Machine Learning
